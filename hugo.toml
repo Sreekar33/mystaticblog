@@ -4,7 +4,6 @@ metaDataFormat = "yaml"
 title = "Ecode-Dcode Blog"
 theme = "blist"
 staticDir = ["static"]
-logo = 
 DefaultContentLanguage = "en"
 DefaultContentLanguageInSubdir = true
 [languages]
@@ -17,7 +16,7 @@ DefaultContentLanguageInSubdir = true
       introTitle = "Hey! I'm Sreekar"
       introSubtitle = "Greetings, fellow enthusiasts of the digital and physical worlds!. I am a curious soul with a passion for deciphering the intricacies of technology and exploring the wonders of our planet. My journey in the realm of bits and bytes, coupled with a deep-seated love for adventure, has inspired me to create this space – a blend of tech revelations and travel escapades."
       introPhoto = "static/probable_me.jpg"
-      logo = "static/logo.png"
+      
     [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
