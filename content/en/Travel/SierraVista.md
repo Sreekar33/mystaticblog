@@ -8,4 +8,4 @@ tags = ["hello","world","first", "sierra", "vista", "sierravista", "mountain", "
 
 # On the Higher Altitude
 
-![Alt text](../../../hike_sierra_vista.jpg)
+![Alt text](../../../images/hike_sierra_vista.jpg)
