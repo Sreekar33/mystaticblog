@@ -1,0 +1,2 @@
+# mystaticblog
+The static blog
