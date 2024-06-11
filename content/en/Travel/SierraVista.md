@@ -1,5 +1,5 @@
 +++
-title = 'SierraVista'
+title = 'Sierra Vista'
 date = 2023-10-04T23:52:23-07:00
 author = 'Sreekar'
 description = "My first hike"

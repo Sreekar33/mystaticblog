@@ -1,5 +1,5 @@
 +++
-title = 'Pacific_ocean'
+title = 'Pacific Ocean'
 date = 2023-10-05T00:14:32-07:00
 author = 'Sreekar'
 description = "Describe the beauty of the west coast"
